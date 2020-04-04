@@ -2,7 +2,7 @@
 
 # Begin
 
-![](https://github.com/AseemWangoo/experiment_with_providers/blob/master/brand.pdf)
+![](https://github.com/AseemWangoo/experiment_with_providers/blob/master/brand.png)
 
 ## ‍🗣 Speaker at...
 
