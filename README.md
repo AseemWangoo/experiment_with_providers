@@ -2,7 +2,12 @@
 
 # Begin
 
-![](https://github.com/AseemWangoo/experiment_with_providers/blob/master/brand.png)
+<!-- ![](https://github.com/AseemWangoo/experiment_with_providers/blob/master/brand.png) -->
+<p>
+  <a href="https://www.w3schools.com">
+  <img src="https://github.com/AseemWangoo/experiment_with_providers/blob/master/brand.png">
+  </a>  
+</p>
 
 ## ‍🗣 Speaker at...
 
