@@ -1,8 +1,4 @@
-# Experiments with Flutter Web
-
-# Welcome !
-
-Hosted URL : https://fir-signin-4477d.firebaseapp.com/#/
+# Experiments with Providers
 
 # Begin
 
